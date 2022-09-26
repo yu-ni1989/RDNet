@@ -5,6 +5,8 @@ This is an implementation of the RDNet which is published in the following paper
 
 If you use the code, please cite the above paper. 
 
+Contact: nih@nuist.edu.cn
+
 
 
 
